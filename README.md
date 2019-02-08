@@ -1,3 +1,4 @@
+```
 Run individual tests scenarios by typing command in Terminal/CMD:
     e.g. python3 <feature_name>
 
@@ -11,3 +12,4 @@ Features covered:
     Login
     Sign up
     See personal data
+```
