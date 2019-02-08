@@ -74,7 +74,7 @@ Phase 1: Test Plan
 					
 Phase 2: Testing
 	Testing approaches, Testing methods, Framework, Programing language, IDE:
-
+		
 		-Testing approaches: Manual, Automation
 		-Testing methods: Black box
 		-Testing process: BDD
@@ -92,7 +92,8 @@ Phase 2: Testing
 				- First name (text input field) (required)
 				- Last Name (text input field) (required)
 				- Email (text input field) (required) (field validation)
-				- Password (text input field) (required) (field validation) (Uppercase-lowercase-special characters)
+				- Password (text input field) (required) (field validation) 
+				(Uppercase-lowercase-special characters)
 				- Phone number (dropdown menu + text input field) (required)
 				- Date of birth (text input field) (required)
 				- Post-code (text input field) (required)
@@ -104,11 +105,14 @@ Phase 2: Testing
 				-Forex (Frequently, Sometimes, No)
 				-Cfd's (Frequently, Sometimes, No)
 				-Spread betting (Frequently, Sometimes, No)
-				-Have you? (Attended a relevant training course, Had experience of working in the financial sector, No other relevant experience)
+				-Have you? (Attended a relevant training course, Had experience of working in the
+				      financial sector, No other relevant experience)
 				-Trading platform(MT5)
-				-Approximate Annual Income (Over $100,000, $50,000 - $99,999, $15,000 - $49,999, Less than $15,000)
+				-Approximate Annual Income (Over $100,000, $50,000 - $99,999, $15,000 - $49,999, 
+				Less than$15,000)
 				-Employment status (Employed, Self Employed, Retired, Unemployed)
-				-Approximate value of assets(Over $100,000, $50,000 - $99,999, $5,000 - $49,999, Less than $5,000)
+				-Approximate value of assets(Over $100,000, $50,000 - $99,999, $5,000 - $49,999,
+				Less than $5,000)
 
 	Two step signup process feature testing:
 		-Time Estimation : 25 hours(PO/DEV time needed not included)
@@ -125,18 +129,17 @@ Phase 2: Testing
 				-DropDown [Currency]
 				-Button [Create a new demo account]
 			- See personal information’s [MY PROFILE]
-				-User Info table[First name, Last name, Email, Phone, Country, Post code, Date of Birth, Language,
-                  Address line 1, Address line 2[OPTIONAL]]
-		        	- Upload documents [MY PROFILE]
+				-User Info table[First name, Last name, Email, Phone, Country, Post code, Date of Birth,                                          Language, Address line 1, Address line 2[OPTIONAL]]
+		        	-Upload documents [MY PROFILE]
 				-Drag&Drop[ID Proof, ID Proof Back, Address Proof, Additional Customer document 1]:
 					Documents must contain all of the following details:
-                        * Your full name
-                        * A unique ID number
-                        * Your birthdate
-                        * Your place of birth
-                        * A visible photo
-                        * Your signature
-                        * Your nationality
+                        			* Your full name
+                        			* A unique ID number
+                        			* Your birthdate
+                        			* Your place of birth
+                       				* A visible photo
+                        			* Your signature
+                        			* Your nationality
 			- Change password [MY PROFILE]
 				- Input fields[Current Password, New Password, Confirm new Password]
 				-Button[Save Changes]
